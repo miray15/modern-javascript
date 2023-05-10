@@ -10,9 +10,4 @@ import moment from 'moment';
 console.log(moment().format("dddd"));
 console.log(moment().format("MMM Do YY"));
 console.log(moment().format("MMMM Do YYYY, h:mm:ss a"));
-
 console.log(moment().format());
-
-
-console.log(var odds = evens.map(v => v + 1);)
-var nums = evens.map((v, i) => v + i);
